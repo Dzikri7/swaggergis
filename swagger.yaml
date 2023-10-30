@@ -155,7 +155,7 @@ components:
       properties:
         username:
           type: string
-          example: fancy
+          example: dzikri
         password:
           type: string
           example: secret
