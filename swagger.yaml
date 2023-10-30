@@ -2,7 +2,7 @@ openapi: 3.1.0
 info:
   title: Dokumentasi Api GIS Dzikri
   description: >-
-    Disini berisi semua API
+    Disini berisi semua API Dzikri
   termsOfService: https://github.com/jscroot/examples/tree/main/api/swagger
   contact:
     email: izzatulhaq8@gmail.com
